@@ -6,6 +6,7 @@ public class ShapeFactory {
         switch (type){
             case CIRCLE -> s = new Circle();
             case RECTANGLE -> s = new Rect();
+            default -> throw new IllegalArgumentException("Wrong type");
         }
         return s;
     }
