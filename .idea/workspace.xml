@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea1388f9-0b01-41c8-a48c-29e051af1c14" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListArray/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListArray/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Finder/Finder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstLast/LinkedIntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstLast/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstLast/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapReverse/MyMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapReverse/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveAll/LinkedLinst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveAll/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapers/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapers/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shapers/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SptitStack/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackOnArray/StackGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackOnArray/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guavaSort/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasOdd/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longestSortedsedq/Tester.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="p7dg2bj4" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KMFhmH9YfQudknLMzv6Y2CZITH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea1388f9-0b01-41c8-a48c-29e051af1c14" name="Changes" comment="" />
+      <created>1673776668944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673776668944</updated>
+      <workItem from="1673776670591" duration="19007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayListArray/Tester.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FirstLast/Tester.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FirstLast/Tester.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RemoveAll/Tester.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
