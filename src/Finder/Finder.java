@@ -1,14 +1,24 @@
 package Finder;
 
-import java.util.Iterator;
+import java.util.ArrayList;
 
 public class Finder{
-    public static <T> Iterator<T> find(Iterable<T>a, T el){
-        for(T i: a){
-            if(el==i){
-                return (Iterator<T>) i;
+    public static int find(Comparable[] a, Object el){
+        for (int i = 0; i < a.length; i++) {
+            if(a[i].compareTo(el)==0){
+                return i;
             }
         }
-        return null;
+        return -1;
+    }
+
+    public static void main(String[] args) {
+        Integer[] a = new Integer[20];
+        for (int i = 0; i < 20; i++) {
+            a[i]=i;
+        }
+
+        System.out.println(find(a, 9));
+
     }
 }
