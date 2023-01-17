@@ -9,7 +9,7 @@ public class Solver {
     }
 
     public static void main(String[] args) {
-        int a = 101;
+        int a = 2032;
         System.out.println(sum(a));
     }
 }
