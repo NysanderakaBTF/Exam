@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea1388f9-0b01-41c8-a48c-29e051af1c14" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/src/isUniqueMap/isUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseHalf/QueueHalfReverser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Finder/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Finder/Finder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/guavaSort/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guavaSort/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,8 @@
       <workItem from="1673776670591" duration="24195000" />
       <workItem from="1673890210035" duration="121000" />
       <workItem from="1673895349770" duration="828000" />
-      <workItem from="1673896408531" duration="1594000" />
+      <workItem from="1673896408531" duration="1990000" />
+      <workItem from="1673944853129" duration="3497000" />
     </task>
     <task id="LOCAL-00001" summary="kal">
       <created>1673797649138</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673802862689</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done">
+      <created>1673898509711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673898509711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,11 @@
           <url>file://$PROJECT_DIR$/src/Dublicates/test.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reverseHalf/QueueHalfReverser.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />

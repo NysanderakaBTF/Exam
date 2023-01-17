@@ -1,13 +1,10 @@
 package guavaSort;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Map;
+import java.util.*;
 
 public class Tester {
     public static void sort(String[] a){
-        HashMap<String, Integer> n = new HashMap<>();
+        TreeMap<String, Integer> n = new TreeMap<>();
         for (int i = 0; i < a.length; i++) {
             if (n.containsKey(a[i])){
                 n.put(a[i], n.get(a[i])+1);
